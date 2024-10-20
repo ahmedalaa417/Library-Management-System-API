@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "./virtualDjango/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "./virtualDjango/Lib/site-packages"
+  ],
+  "python.analysis.useLibraryCodeForTypes": true
+}
